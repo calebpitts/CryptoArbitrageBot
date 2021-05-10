@@ -1,0 +1,69 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 43.69295345 / 43.69295345
+>>>  Scan 0/10 took 1.52805 secs. MAX PROFIT = 0.17828%
+>>>  Scan 1/10 took 0.73720 secs. MAX PROFIT = 0.17828%
+>>>  Scan 2/10 took 0.66546 secs. MAX PROFIT = 0.38066%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.69295345 USDT
+TRADE 0 -> buy 5.707e-05 BTC-USDT at price 56277.8
+TRADE 1 -> buy 1.6241 POLK-BTC at price 0.00003512
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 1.6241 POLK-BTC at price 0.00003514
+TRADE 2 -> sell 1.6241 POLK-USDT at price 1.9800
+==============================
+END BAL -> 43.69295 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 6.79902 secs.
+
+Collecting balances...
+NEW PRT -> 43.694925425 / 43.694925425
+>>>  Scan 3/10 took 1.43401 secs. MAX PROFIT = 0.15635%
+>>>  Scan 4/10 took 0.61528 secs. MAX PROFIT = 0.15640%
+>>>  Scan 5/10 took 0.62108 secs. MAX PROFIT = 0.56319%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.69295345 USDT
+TRADE 0 -> buy 0.0102339 ETH-USDT at price 3364.94
+No quantity filled during first limit order. Waiting 1 second before returning to scanning...
+MSG: Order canceled.
+MSG: Arbitrage trade lost. Returning to scanning...
+TIME    -> 3.80221 secs.
+
+Collecting balances...
+NEW PRT -> 43.694925425 / 43.694925425
+>>>  Scan 6/10 took 0.62282 secs. MAX PROFIT = 0.29499%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.69295345 USDT
+TRADE 0 -> buy 3.643e-05 BTC-USDT at price 56258.5
+TRADE 1 -> buy 1.0364 POLK-BTC at price 0.00003515
+TRADE 2 -> sell 1.0364 POLK-USDT at price 1.9800
+==============================
+END BAL -> 43.69295 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 2.79631 secs.
+
+Collecting balances...
+NEW PRT -> 43.69621285 / 43.69621285
+>>>  Scan 7/10 took 0.58520 secs. MAX PROFIT = 0.22904%
+MSG: 3.2186 VETUSDT not within (10.0,10000000000.0) required.
+>>>  Scan 8/10 took 1.43565 secs. MAX PROFIT = 0.19057%
+>>>  Scan 9/10 took 0.62809 secs. MAX PROFIT = 0.19057%
+>>>  Scan 10/10 took 0.60715 secs. MAX PROFIT = 0.19072%
+Saving runtime history...
+NEW PRT -> 43.69621285 / 43.69621285
+
+Done! In 1.72 mins, the bot accumulated 0.006518800000009151 USDT which is a 0.00746 percent difference.
+Total runtime was 1.72 mins.

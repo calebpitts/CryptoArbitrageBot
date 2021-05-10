@@ -1,0 +1,469 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 39.34748141 / 39.34748141
+>>>  Scan 0/100 took 0.60610 secs. MAX PROFIT = 0.27736%
+MSG: 0.000301 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0003 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 1/100 took 0.62245 secs. MAX PROFIT = 0.33275%
+MSG: 0.000301 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0003 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 2/100 took 1.52957 secs. MAX PROFIT = 0.33275%
+MSG: 0.000301 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0003 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 3/100 took 0.65878 secs. MAX PROFIT = 0.33967%
+MSG: 0.000301 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0003 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 4/100 took 0.81285 secs. MAX PROFIT = 0.33967%
+MSG: 0.000301 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0003 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 5/100 took 0.70533 secs. MAX PROFIT = 0.33967%
+MSG: 0.000301 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0003 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 6/100 took 0.72888 secs. MAX PROFIT = 0.33967%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 7/100 took 0.77869 secs. MAX PROFIT = 0.33967%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 8/100 took 0.78735 secs. MAX PROFIT = 0.33967%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 9/100 took 0.72459 secs. MAX PROFIT = 0.30002%
+MSG: 8.21e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 10/100 took 0.91125 secs. MAX PROFIT = 0.30002%
+MSG: 8.21e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 11/100 took 0.74240 secs. MAX PROFIT = 0.30002%
+MSG: 8.21e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 12/100 took 0.71132 secs. MAX PROFIT = 0.30002%
+MSG: 2.14e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 13/100 took 0.65409 secs. MAX PROFIT = 0.30865%
+MSG: 2.14e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 14/100 took 0.68176 secs. MAX PROFIT = 0.29391%
+MSG: 2.14e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 15/100 took 0.62646 secs. MAX PROFIT = 0.29391%
+MSG: 2.14e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 16/100 took 0.69938 secs. MAX PROFIT = 0.29391%
+MSG: 2.14e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 17/100 took 0.61335 secs. MAX PROFIT = 0.30856%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 18/100 took 0.74854 secs. MAX PROFIT = 0.32809%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 19/100 took 0.69655 secs. MAX PROFIT = 0.33021%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 20/100 took 0.61595 secs. MAX PROFIT = 0.32482%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 21/100 took 0.66906 secs. MAX PROFIT = 0.31463%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 22/100 took 0.78291 secs. MAX PROFIT = 0.35668%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 23/100 took 0.84346 secs. MAX PROFIT = 0.66869%
+MSG: 0.0001 DOGEUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0001 DOGEKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 24/100 took 0.65926 secs. MAX PROFIT = 0.66869%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.34748141 USDT
+TRADE 0 -> buy 32.0518 DOGE-USDT at price 0.54001
+TRADE 1 -> sell 32.0518 DOGE-KCS at price 0.037572
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 32.0518 DOGE-KCS at price 0.037269
+Unexpected result qty difference. Expected 1.20425 DOGE-KCS but received 1.1945385342 DOGE-KCS from last trade.
+Adjusting next trade qty by a factor of 0.9919356729914883.
+TRADE 2 -> sell 1.1852 KCS-USDT at price 14.484
+==============================
+END BAL -> 39.34985 USDT
+PROFIT  -> 0.00237 USDT
+TIME    -> 5.01714 secs.
+
+Collecting balances...
+NEW PRT -> 39.281905485 / 39.281905485
+>>>  Scan 25/100 took 0.66439 secs. MAX PROFIT = 0.34980%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 26/100 took 0.67145 secs. MAX PROFIT = 0.34980%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 27/100 took 0.78556 secs. MAX PROFIT = 0.31949%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 28/100 took 0.76131 secs. MAX PROFIT = 0.31949%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 29/100 took 0.66717 secs. MAX PROFIT = 0.35129%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 30/100 took 0.73164 secs. MAX PROFIT = 0.30521%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 31/100 took 0.75140 secs. MAX PROFIT = 0.30521%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 32/100 took 0.69966 secs. MAX PROFIT = 0.30440%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 33/100 took 0.74511 secs. MAX PROFIT = 0.34583%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 34/100 took 0.73691 secs. MAX PROFIT = 0.34410%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 35/100 took 0.75681 secs. MAX PROFIT = 0.36364%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 36/100 took 0.68551 secs. MAX PROFIT = 0.38767%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 37/100 took 1.58827 secs. MAX PROFIT = 0.35662%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 38/100 took 0.70221 secs. MAX PROFIT = 0.42008%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 39/100 took 0.73315 secs. MAX PROFIT = 0.37616%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 40/100 took 0.74329 secs. MAX PROFIT = 0.40084%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 41/100 took 0.68042 secs. MAX PROFIT = 0.40165%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 42/100 took 0.68866 secs. MAX PROFIT = 0.37874%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 43/100 took 0.71386 secs. MAX PROFIT = 0.37874%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 44/100 took 0.76328 secs. MAX PROFIT = 0.36665%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 45/100 took 0.67602 secs. MAX PROFIT = 0.39518%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 46/100 took 0.75201 secs. MAX PROFIT = 0.36421%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 47/100 took 0.76806 secs. MAX PROFIT = 0.37992%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 48/100 took 0.77449 secs. MAX PROFIT = 0.37962%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 49/100 took 0.68805 secs. MAX PROFIT = 0.37962%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 50/100 took 0.73974 secs. MAX PROFIT = 0.36786%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 51/100 took 0.65409 secs. MAX PROFIT = 0.36646%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 52/100 took 0.64683 secs. MAX PROFIT = 0.38248%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 53/100 took 0.62345 secs. MAX PROFIT = 0.37433%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 54/100 took 0.64140 secs. MAX PROFIT = 0.39729%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 55/100 took 1.67413 secs. MAX PROFIT = 0.39729%
+MSG: 0.0 TRXUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0 BTTTRX not within (100.0,10000000000.0) required.
+MSG: 0.0 BTTUSDT not within (100.0,10000000000.0) required.
+>>>  Scan 56/100 took 0.92836 secs. MAX PROFIT = 0.29811%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 57/100 took 1.46332 secs. MAX PROFIT = 0.27734%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 58/100 took 0.85675 secs. MAX PROFIT = 0.27734%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 59/100 took 1.41199 secs. MAX PROFIT = 0.27734%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 60/100 took 0.71408 secs. MAX PROFIT = 0.26368%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.34748141 USDT
+TRADE 0 -> buy 0.0631 KCS-USDT at price 14.491
+TRADE 1 -> buy 0.009122 NEO-KCS at price 6.887
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 0.009122 NEO-KCS at price 6.920
+TRADE 2 -> sell 0.009122 NEO-USDT at price 100.1085
+==============================
+END BAL -> 39.3475 USDT
+PROFIT  -> 2e-05 USDT
+TIME    -> 5.50642 secs.
+
+Collecting balances...
+NEW PRT -> 39.281319335 / 39.281319335
+>>>  Scan 61/100 took 0.60866 secs. MAX PROFIT = 0.21393%
+>>>  Scan 62/100 took 0.65639 secs. MAX PROFIT = 0.21393%
+>>>  Scan 63/100 took 0.65308 secs. MAX PROFIT = 0.21525%
+>>>  Scan 64/100 took 0.70675 secs. MAX PROFIT = 0.21525%
+>>>  Scan 65/100 took 1.44312 secs. MAX PROFIT = 0.20550%
+>>>  Scan 66/100 took 0.78810 secs. MAX PROFIT = 0.20956%
+>>>  Scan 67/100 took 0.77908 secs. MAX PROFIT = 0.18652%
+>>>  Scan 68/100 took 0.66033 secs. MAX PROFIT = 0.18652%
+>>>  Scan 69/100 took 0.86656 secs. MAX PROFIT = 0.19383%
+>>>  Scan 70/100 took 0.91725 secs. MAX PROFIT = 0.19383%
+>>>  Scan 71/100 took 0.85022 secs. MAX PROFIT = 0.28427%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 72/100 took 0.66946 secs. MAX PROFIT = 0.28427%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 73/100 took 0.70818 secs. MAX PROFIT = 0.24487%
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0 DOGEKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 DOGEUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 74/100 took 0.69646 secs. MAX PROFIT = 0.18724%
+>>>  Scan 75/100 took 0.73530 secs. MAX PROFIT = 0.19131%
+>>>  Scan 76/100 took 0.81767 secs. MAX PROFIT = 0.18724%
+>>>  Scan 77/100 took 0.77204 secs. MAX PROFIT = 1.64030%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.34748141 USDT
+TRADE 0 -> buy 437.6805 MITX-USDT at price 0.0899
+TRADE 1 -> sell 437.6805 MITX-BTC at price 0.000001667
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 437.6805 MITX-BTC at price 0.000001646
+Unexpected result qty difference. Expected 0.00072961 MITX-BTC but received 0.000720422103 MITX-BTC from last trade.
+Adjusting next trade qty by a factor of 0.9874071120187498.
+TRADE 2 -> sell 0.00072042 BTC-USDT at price 54630.9
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Not enough quantity to fill. Remainder qty = 0.00022042000000000003
+TRADE + -> sell 0.0005 BTC-USDT at price 54622.7
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 0.00072042 BTC-USDT at price 54619.8
+==============================
+END BAL -> 39.33948 USDT
+PROFIT  -> -0.008 USDT
+TIME    -> 9.86372 secs.
+
+Collecting balances...
+NEW PRT -> 39.28217902 / 39.28217902
+>>>  Scan 78/100 took 0.67625 secs. MAX PROFIT = 0.29811%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 79/100 took 0.70786 secs. MAX PROFIT = 0.29811%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 80/100 took 0.65535 secs. MAX PROFIT = 0.29811%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 81/100 took 0.61861 secs. MAX PROFIT = 0.29811%
+MSG: 0.0003 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0002 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0001 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 82/100 took 0.67627 secs. MAX PROFIT = 0.24622%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 83/100 took 1.54444 secs. MAX PROFIT = 0.28913%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.34748141 USDT
+TRADE 0 -> buy 0.0025 LINK-USDT at price 47.8960
+TRADE 1 -> sell 0.0025 LINK-USDC at price 48.1047
+Unexpected result qty difference. Expected 0.1202 LINK-USDC but received 0.12026175 LINK-USDC from last trade.
+Adjusting next trade qty by a factor of 1.0005137271214641.
+TRADE 2 -> sell 0.1202 USDC-USDT at price 0.99922
+API RESPONSE ->200-{"code":"200004","msg":"Balance insufficient!"}
+Attempting to execute trade with current balance quantity...
+Collecting balances...
+New trade qty: 0.1201
+==============================
+END BAL -> 39.34738 USDT
+PROFIT  -> -0.0001 USDT
+TIME    -> 5.20651 secs.
+
+Collecting balances...
+NEW PRT -> 39.282216405 / 39.282216405
+>>>  Scan 84/100 took 0.67635 secs. MAX PROFIT = 1.56670%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.34748141 USDT
+TRADE 0 -> buy 349.8253 GMB-USDT at price 0.005500
+TRADE 1 -> sell 349.8253 GMB-ETH at price 0.0000016621
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 349.8253 GMB-ETH at price 0.0000016362
+Unexpected result qty difference. Expected 0.0005814 GMB-ETH but received 0.00057238415586 GMB-ETH from last trade.
+Adjusting next trade qty by a factor of 0.9844928721362229.
+TRADE 2 -> sell 0.0005637 ETH-USDT at price 3359.77
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 0.0005637 ETH-USDT at price 3359.52
+==============================
+END BAL -> 39.34734 USDT
+PROFIT  -> -0.00014 USDT
+TIME    -> 8.84812 secs.
+
+Collecting balances...
+NEW PRT -> 39.26641594 / 39.26641594
+>>>  Scan 85/100 took 0.66106 secs. MAX PROFIT = 0.36677%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 86/100 took 0.64500 secs. MAX PROFIT = 0.36677%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 87/100 took 0.63894 secs. MAX PROFIT = 0.38052%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 88/100 took 0.73946 secs. MAX PROFIT = 0.38052%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 89/100 took 0.63199 secs. MAX PROFIT = 0.40114%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 90/100 took 0.61116 secs. MAX PROFIT = 0.40114%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 91/100 took 0.66595 secs. MAX PROFIT = 0.40862%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 92/100 took 0.63194 secs. MAX PROFIT = 0.40862%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 93/100 took 0.62775 secs. MAX PROFIT = 0.46486%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.34748141 USDT
+TRADE 0 -> buy 4.352e-05 BTC-USDT at price 54501.3
+TRADE 1 -> buy 1.2357 NWC-BTC at price 0.00003492
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 1.2357 NWC-BTC at price 0.00003522
+TRADE 2 -> sell 1.2357 NWC-USDT at price 1.912408
+==============================
+END BAL -> 39.34748 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 5.89612 secs.
+
+Collecting balances...
+NEW PRT -> 39.259041485 / 39.259041485
+>>>  Scan 94/100 took 0.64909 secs. MAX PROFIT = 0.50708%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 95/100 took 0.62048 secs. MAX PROFIT = 0.50708%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 96/100 took 0.61921 secs. MAX PROFIT = 0.50708%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 97/100 took 0.66049 secs. MAX PROFIT = 0.49600%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 98/100 took 0.61350 secs. MAX PROFIT = 0.49600%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 99/100 took 0.67126 secs. MAX PROFIT = 0.50229%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 100/100 took 0.67112 secs. MAX PROFIT = 0.50229%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 MHCETH not within (1.0,10000000000.0) required.
+MSG: 0.0 MHCUSDT not within (1.0,10000000000.0) required.
+Saving runtime history...
+NEW PRT -> 39.259041485 / 39.259041485
+
+Done! In 6.18 mins, the bot accumulated -0.17687985000000594 USDT which is a -0.22477 percent difference.
+Total runtime was 6.18 mins.

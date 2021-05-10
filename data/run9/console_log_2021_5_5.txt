@@ -1,0 +1,228 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting STX-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting EWT-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting WAVES-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting AMPL-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BNS-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting SUKU-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting MLK-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting KAI-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DIA-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LINK-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DOT-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting SHA-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting CKB-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting UOS-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DEGO-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting UBX-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting AAVE-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting SHR-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting CTI-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting CAS-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting MSWAP-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting GOM2-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REVV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting FRONT-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LTC-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BCH-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DFI-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting EOS-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting PROPS-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting ADA-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LINK-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting KLV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DOGE-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting TRIAS-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DOGE-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting MITX-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BRG-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LTX-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting KLV-TRX orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting PHA-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BCH-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting SRK-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LUNA-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting ADA-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting HTR-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DOT-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LINK-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting MIR-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BNB-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XLM-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting VET-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting SWINGBY-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XHV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DASH-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting UNI-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting AAVE-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DOGE-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting ZEC-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XTZ-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting GRT-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting NANO-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting ALGO-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting EWT-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting AVAX-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting KRL-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting POLK-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting RNDR-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting TARA-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DYP-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XYM-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting PCX-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting ORBS-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting DSLA-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XCUR-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BOSON-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting PUNDIX-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LABS-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting PHNX-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting EQZ-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting CARR-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting STND-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting TOWER-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting GMB-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting GMB-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting MKR-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting KAT-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XRP-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XRP-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XRP-KCS orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting AVA-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting FTM-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting AVA-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting MKR-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting XRP-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting FTM-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting VSYS-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BTT-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BTT-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting GRIN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting GRIN-ETH orderbook. Pair might be untradeable on KUCOIN.
+Found 122 valid pairs on KUCOIN.
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 43.559973655 / 43.559973655
+>>>  Scan 0/2 took 0.81377 secs. MAX PROFIT = 0.15071%
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 43.559973655 / 43.559973655
+>>>  Scan 0/2 took 0.61205 secs. MAX PROFIT = 0.15736%
+>>>  Scan 1/2 took 1.04605 secs. MAX PROFIT = 0.38911%
+New profit percent after trade plan generation = 0.00389%
+New profit percent after trade plan generation = 0.00223%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.559973655 USDT
+TRADE 0 -> buy 1.519e-05 BTC-USDT at price 55406.3
+TRADE 1 -> buy 0.4722 POLK-BTC at price 0.00003216
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 0.4722 POLK-BTC at price 0.00003221
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 0.4722 POLK-BTC at price 0.00003225
+TRADE 2 -> sell 0.4722 POLK-USDT at price 1.7864
+==============================
+END BAL -> 43.56063 USDT
+PROFIT  -> 0.00066 USDT
+TIME    -> 9.35685 secs.
+
+Collecting balances...
+NEW PRT -> 43.561262385 / 43.561262385
+>>>  Scan 2/2 took 0.69945 secs. MAX PROFIT = 0.15736%
+Saving runtime history...
+NEW PRT -> 43.561262385 / 43.561262385
+
+Done! In 1.55 mins, the bot accumulated 0.0025774599999977 USDT which is a 0.00296 percent difference.
+Total runtime was 1.56 mins.
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 43.561262385 / 43.561262385
+>>>  Scan 0/2 took 0.61708 secs. MAX PROFIT = 0.11140%
+>>>  Scan 1/2 took 0.63478 secs. MAX PROFIT = 0.13522%
+>>>  Scan 2/2 took 1.48550 secs. MAX PROFIT = 0.13522%
+Saving runtime history...
+NEW PRT -> 43.561262385 / 43.561262385
+
+Done! In 1.4 mins, the bot accumulated 0.0 USDT which is a 0.0 percent difference.
+Total runtime was 1.41 mins.
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 43.561262385 / 43.561262385
+>>>  Scan 0/10 took 0.64394 secs. MAX PROFIT = 0.21888%
+>>>  Scan 1/10 took 0.71381 secs. MAX PROFIT = 0.13145%
+>>>  Scan 2/10 took 0.72534 secs. MAX PROFIT = 0.13145%
+>>>  Scan 3/10 took 0.66416 secs. MAX PROFIT = 0.13145%
+>>>  Scan 4/10 took 0.74711 secs. MAX PROFIT = 0.24296%
+New profit percent after trade plan generation = 0.00243%
+MSG: 9.2e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 5/10 took 0.63970 secs. MAX PROFIT = 0.24296%
+New profit percent after trade plan generation = 0.00243%
+MSG: 9.2e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 6/10 took 0.65645 secs. MAX PROFIT = 0.24296%
+New profit percent after trade plan generation = 0.00243%
+MSG: 9.2e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 7/10 took 0.61112 secs. MAX PROFIT = 0.24296%
+New profit percent after trade plan generation = 0.00243%
+MSG: 9.2e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 8/10 took 0.63011 secs. MAX PROFIT = 0.24296%
+New profit percent after trade plan generation = 0.00243%
+MSG: 9.2e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 9/10 took 0.67723 secs. MAX PROFIT = 0.61205%
+New profit percent after trade plan generation = 0.00612%
+MSG: 1.55e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+MSG: 0.0521 MLKBTC not within (0.1,10000000000.0) required.
+MSG: 0.0521 MLKUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 10/10 took 0.65055 secs. MAX PROFIT = 0.61205%
+New profit percent after trade plan generation = 0.00643%
+MSG: 1.55e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+MSG: 0.0521 MLKBTC not within (0.1,10000000000.0) required.
+MSG: 0.0521 MLKUSDT not within (0.1,10000000000.0) required.
+Saving runtime history...
+NEW PRT -> 43.561262385 / 43.561262385
+
+Done! In 1.71 mins, the bot accumulated 0.0 USDT which is a 0.0 percent difference.
+Total runtime was 1.71 mins.

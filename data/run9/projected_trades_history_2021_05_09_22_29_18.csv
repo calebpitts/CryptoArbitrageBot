@@ -1,0 +1,4 @@
+scan_id,exchange,timestamp,direction,order_type,side,pair,price,qty,max_trading_qty,valid,end_profit_percent
+9,KUCOIN,22:29:11,reverse,buy,ask,MTV-USDT,0.0080513,825.0,825.0,True,0.2535143392992323
+9,KUCOIN,22:29:11,reverse,sell,bid,MTV-BTC,0.000000137,825.0,825.0,True,0.2535143392992323
+9,KUCOIN,22:29:11,reverse,sell,bid,BTC-USDT,58917.6,0.00011273,0.00011273918998737221,True,0.2535143392992323

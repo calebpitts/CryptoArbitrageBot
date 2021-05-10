@@ -1,0 +1,68 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 21.750433745 / 65.251301235
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.750433745 USDT
+TRADE 0 -> buy 0.00039066 BTC-USDT at price 55674.7
+TRADE 1 -> buy 1262.22 TEL-BTC at price 0.0000003095
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 1262.22 TEL-BTC at price 0.0000003125
+TRADE 2 -> sell 1262.22 TEL-USDT at price 0.01725398
+==============================
+END BAL -> 21.87604 USDT
+PROFIT  -> 0.1256 USDT
+TIME    -> 6.55203 secs.
+
+Collecting balances...
+NEW PRT -> 21.7811034075 / 65.34331022250001
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.750433745 USDT
+TRADE 0 -> buy 0.00039027 BTC-USDT at price 55731.2
+TRADE 1 -> buy 580.4134 VRA-BTC at price 0.0000006724
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 580.4134 VRA-BTC at price 0.0000006756
+TRADE 2 -> sell 580.4134 VRA-USDT at price 0.03745282
+==============================
+END BAL -> 21.75043 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 6.42828 secs.
+
+Collecting balances...
+NEW PRT -> 21.769664705 / 65.308994115
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.750433745 USDT
+TRADE 0 -> buy 11.0971 POLK-USDT at price 1.9600
+TRADE 1 -> sell 11.0971 POLK-BTC at price 0.00003553
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 11.0971 POLK-BTC at price 0.00003523
+Unexpected result qty difference. Expected 0.00039427 POLK-BTC but received 0.000390950833 POLK-BTC from last trade.
+Adjusting next trade qty by a factor of 0.9915814873056535.
+TRADE 2 -> sell 0.00039095 BTC-USDT at price 55706.5
+==============================
+END BAL -> 21.75454 USDT
+PROFIT  -> 0.0041 USDT
+TIME    -> 6.14694 secs.
+
+Collecting balances...
+NEW PRT -> 21.764669355 / 65.294008065
+Saving runtime history...
+
+Done! In 1.66 mins, the bot accumulated 0.0 USDT which is a 0.0 percent difference.
+Total runtime was 1.66 mins.

@@ -1,0 +1,612 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 43.69621285 / 43.69621285
+>>>  Scan 0/100 took 1.59730 secs. MAX PROFIT = 0.16532%
+>>>  Scan 1/100 took 0.72701 secs. MAX PROFIT = 0.16550%
+>>>  Scan 2/100 took 0.66595 secs. MAX PROFIT = 0.16550%
+>>>  Scan 3/100 took 0.75112 secs. MAX PROFIT = 0.16550%
+>>>  Scan 4/100 took 0.68526 secs. MAX PROFIT = 0.16550%
+>>>  Scan 5/100 took 0.69309 secs. MAX PROFIT = 0.21978%
+>>>  Scan 6/100 took 0.66415 secs. MAX PROFIT = 0.21978%
+>>>  Scan 7/100 took 0.76772 secs. MAX PROFIT = 0.21978%
+>>>  Scan 8/100 took 0.75337 secs. MAX PROFIT = 0.21978%
+>>>  Scan 9/100 took 0.71538 secs. MAX PROFIT = 0.21978%
+>>>  Scan 10/100 took 0.75746 secs. MAX PROFIT = 0.21978%
+>>>  Scan 11/100 took 1.49949 secs. MAX PROFIT = 0.27192%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 12/100 took 0.67284 secs. MAX PROFIT = 0.27192%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 13/100 took 1.52535 secs. MAX PROFIT = 0.27192%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 14/100 took 0.65933 secs. MAX PROFIT = 0.25481%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 15/100 took 0.69313 secs. MAX PROFIT = 0.25481%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 16/100 took 0.66204 secs. MAX PROFIT = 0.26251%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.69621285 USDT
+TRADE 0 -> buy 2.9349 KCS-USDT at price 14.888
+TRADE 1 -> buy 90.8722 DOGE-KCS at price 0.032297
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 90.8722 DOGE-KCS at price 0.032457
+TRADE 2 -> sell 90.8722 DOGE-USDT at price 0.48233
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 90.8722 DOGE-USDT at price 0.48169
+==============================
+END BAL -> 43.63805 USDT
+PROFIT  -> -0.05816 USDT
+TIME    -> 7.12353 secs.
+
+Collecting balances...
+NEW PRT -> 43.734932255 / 43.734932255
+>>>  Scan 17/100 took 0.72804 secs. MAX PROFIT = 0.33221%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 18/100 took 0.63895 secs. MAX PROFIT = 0.36724%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 19/100 took 0.79362 secs. MAX PROFIT = 0.35363%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 20/100 took 0.77681 secs. MAX PROFIT = 0.40811%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 21/100 took 0.75115 secs. MAX PROFIT = 0.39864%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 22/100 took 0.68945 secs. MAX PROFIT = 0.36416%
+MSG: 2.34e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 23/100 took 0.76519 secs. MAX PROFIT = 0.36416%
+MSG: 2.36e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 24/100 took 0.90910 secs. MAX PROFIT = 0.34988%
+MSG: 2.36e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 25/100 took 0.72629 secs. MAX PROFIT = 0.36955%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 26/100 took 0.73878 secs. MAX PROFIT = 0.36955%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 27/100 took 0.74216 secs. MAX PROFIT = 0.36955%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 28/100 took 0.80579 secs. MAX PROFIT = 0.35407%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 29/100 took 1.46108 secs. MAX PROFIT = 0.39297%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 30/100 took 0.77566 secs. MAX PROFIT = 0.39297%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 31/100 took 0.79840 secs. MAX PROFIT = 0.39297%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 32/100 took 0.72483 secs. MAX PROFIT = 0.40524%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 33/100 took 1.49777 secs. MAX PROFIT = 0.46573%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 34/100 took 1.54895 secs. MAX PROFIT = 0.36594%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 35/100 took 0.68812 secs. MAX PROFIT = 0.39500%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 36/100 took 0.68649 secs. MAX PROFIT = 0.39500%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 37/100 took 0.68548 secs. MAX PROFIT = 0.54716%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 38/100 took 0.68019 secs. MAX PROFIT = 0.54716%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 39/100 took 0.81703 secs. MAX PROFIT = 0.43686%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 40/100 took 0.64036 secs. MAX PROFIT = 0.44071%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 41/100 took 1.60339 secs. MAX PROFIT = 0.42622%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 42/100 took 0.77349 secs. MAX PROFIT = 0.45095%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 43/100 took 0.82859 secs. MAX PROFIT = 0.43997%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 44/100 took 0.73142 secs. MAX PROFIT = 0.34719%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 PIVXETH not within (0.1,10000000000.0) required.
+MSG: 0.0 PIVXUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 45/100 took 0.73744 secs. MAX PROFIT = 0.34719%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 PIVXETH not within (0.1,10000000000.0) required.
+MSG: 0.0 PIVXUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 46/100 took 0.67110 secs. MAX PROFIT = 0.71722%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.69621285 USDT
+TRADE 0 -> buy 0.0002242 BTC-USDT at price 56171.6
+No quantity filled during first limit order. Waiting 1 second before returning to scanning...
+MSG: Order canceled.
+MSG: Arbitrage trade lost. Returning to scanning...
+TIME    -> 3.76395 secs.
+
+Collecting balances...
+NEW PRT -> 43.734932255 / 43.734932255
+>>>  Scan 47/100 took 0.80224 secs. MAX PROFIT = 0.45406%
+MSG: 0.0 VETUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0 VETKCS not within (1.0,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 48/100 took 0.72687 secs. MAX PROFIT = 0.95838%
+MSG: 5709.4522 UBXETH not within (10000.0,10000000000.0) required.
+>>>  Scan 49/100 took 0.75920 secs. MAX PROFIT = 0.95838%
+MSG: 5714.4647 UBXETH not within (10000.0,10000000000.0) required.
+>>>  Scan 50/100 took 0.63817 secs. MAX PROFIT = 1.04823%
+MSG: 7732.1876 UBXETH not within (10000.0,10000000000.0) required.
+>>>  Scan 51/100 took 0.66605 secs. MAX PROFIT = 1.04823%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.69621285 USDT
+TRADE 0 -> buy 0.0130568 ETH-USDT at price 3346.61
+TRADE 1 -> buy 23374.1496 UBX-ETH at price 0.0000005586
+API RESPONSE ->200-{"code":"200004","msg":"Balance insufficient!"}
+Attempting to execute trade with current balance quantity...
+Collecting balances...
+New trade qty: 23374.436
+API RESPONSE ->200-{"code":"200004","msg":"Balance insufficient!"}
+WARNING: Reduction in qty failed.
+MSG: Arbitrage trade lost. Returning to scanning...
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 39.350553035 / 39.350553035
+>>>  Scan 0/100 took 1.42563 secs. MAX PROFIT = 0.38755%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 1/100 took 0.62555 secs. MAX PROFIT = 0.38755%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 2/100 took 0.62101 secs. MAX PROFIT = 0.38755%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 3/100 took 1.44755 secs. MAX PROFIT = 0.57615%
+MSG: 1.4e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 4/100 took 0.62199 secs. MAX PROFIT = 0.58259%
+MSG: 1.4e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 5/100 took 1.44508 secs. MAX PROFIT = 0.38755%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 6/100 took 0.66215 secs. MAX PROFIT = 0.38755%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 7/100 took 0.71734 secs. MAX PROFIT = 0.39449%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 8/100 took 1.63613 secs. MAX PROFIT = 0.38755%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 9/100 took 0.67467 secs. MAX PROFIT = 0.39449%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 10/100 took 0.78173 secs. MAX PROFIT = 0.39449%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 11/100 took 0.69019 secs. MAX PROFIT = 0.39449%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 12/100 took 0.62063 secs. MAX PROFIT = 0.40144%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 13/100 took 0.69838 secs. MAX PROFIT = 0.40839%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 14/100 took 1.68925 secs. MAX PROFIT = 0.42923%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 15/100 took 0.63113 secs. MAX PROFIT = 0.42923%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 16/100 took 0.65432 secs. MAX PROFIT = 0.42923%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 17/100 took 0.71411 secs. MAX PROFIT = 0.45006%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 18/100 took 0.68995 secs. MAX PROFIT = 0.41533%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 19/100 took 0.69273 secs. MAX PROFIT = 0.41533%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 20/100 took 0.65150 secs. MAX PROFIT = 0.41533%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 21/100 took 1.48564 secs. MAX PROFIT = 0.42228%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 22/100 took 0.65250 secs. MAX PROFIT = 0.42923%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 23/100 took 0.64531 secs. MAX PROFIT = 0.39449%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 24/100 took 0.69437 secs. MAX PROFIT = 0.39449%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 25/100 took 0.78986 secs. MAX PROFIT = 0.39449%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 26/100 took 1.57627 secs. MAX PROFIT = 0.38755%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 27/100 took 1.54865 secs. MAX PROFIT = 0.34587%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 28/100 took 0.72054 secs. MAX PROFIT = 0.34587%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 29/100 took 0.64559 secs. MAX PROFIT = 0.35976%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 30/100 took 0.73125 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 31/100 took 0.70633 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 32/100 took 0.65286 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 33/100 took 0.64686 secs. MAX PROFIT = 0.31114%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 34/100 took 1.43851 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 35/100 took 0.64619 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 36/100 took 0.65427 secs. MAX PROFIT = 0.28335%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 37/100 took 0.60287 secs. MAX PROFIT = 0.28335%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 38/100 took 0.75080 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 39/100 took 0.64897 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 40/100 took 0.76490 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 41/100 took 0.63657 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 42/100 took 0.65109 secs. MAX PROFIT = 0.30419%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 43/100 took 0.62928 secs. MAX PROFIT = 0.38060%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 44/100 took 0.59460 secs. MAX PROFIT = 0.42228%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 45/100 took 0.65371 secs. MAX PROFIT = 0.41533%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 46/100 took 0.59926 secs. MAX PROFIT = 0.41533%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 47/100 took 1.58601 secs. MAX PROFIT = 0.67257%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 48/100 took 0.77915 secs. MAX PROFIT = 0.67257%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 49/100 took 1.04157 secs. MAX PROFIT = 0.67257%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 50/100 took 0.97850 secs. MAX PROFIT = 0.67257%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 51/100 took 0.65506 secs. MAX PROFIT = 0.67257%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 52/100 took 1.51596 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 53/100 took 0.73108 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 54/100 took 0.67196 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 55/100 took 0.64209 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 56/100 took 0.64969 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 57/100 took 0.66258 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 58/100 took 0.62226 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 59/100 took 0.79140 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 60/100 took 1.55418 secs. MAX PROFIT = 0.57534%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 61/100 took 0.84146 secs. MAX PROFIT = 0.50100%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.350553035 USDT
+TRADE 0 -> buy 113.6328 DSLA-USDT at price 0.01615
+TRADE 1 -> sell 113.6328 DSLA-BTC at price 0.0000002960
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 113.6328 DSLA-BTC at price 0.0000002946
+Unexpected result qty difference. Expected 3.36353e-05 DSLA-BTC but received 3.347622288e-05 DSLA-BTC from last trade.
+Adjusting next trade qty by a factor of 0.9952705306627264.
+TRADE 2 -> sell 3.337e-05 BTC-USDT at price 54729.6
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 3.337e-05 BTC-USDT at price 54728.7
+==============================
+END BAL -> 39.35052 USDT
+PROFIT  -> -3e-05 USDT
+TIME    -> 9.18605 secs.
+
+Collecting balances...
+NEW PRT -> 39.346116535 / 39.346116535
+>>>  Scan 62/100 took 0.70379 secs. MAX PROFIT = 0.40161%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 63/100 took 0.66773 secs. MAX PROFIT = 0.40161%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 64/100 took 0.74460 secs. MAX PROFIT = 0.41550%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 65/100 took 0.74955 secs. MAX PROFIT = 0.41550%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 66/100 took 0.68059 secs. MAX PROFIT = 0.41550%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 67/100 took 0.71443 secs. MAX PROFIT = 0.69003%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.350553035 USDT
+TRADE 0 -> buy 3.715e-05 BTC-USDT at price 54799.4
+No quantity filled during first limit order. Waiting 1 second before returning to scanning...
+MSG: Order canceled.
+MSG: Arbitrage trade lost. Returning to scanning...
+TIME    -> 3.43069 secs.
+
+Collecting balances...
+NEW PRT -> 39.346116535 / 39.346116535
+>>>  Scan 68/100 took 0.62446 secs. MAX PROFIT = 0.45023%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 69/100 took 0.78316 secs. MAX PROFIT = 0.50579%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 70/100 took 0.64485 secs. MAX PROFIT = 0.51760%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 71/100 took 0.61829 secs. MAX PROFIT = 0.51760%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 72/100 took 0.71761 secs. MAX PROFIT = 0.51760%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 73/100 took 0.76419 secs. MAX PROFIT = 0.51760%
+MSG: 0.0001 NANOUSDT not within (0.01,10000000000.0) required.
+MSG: 0.0001 NANOKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 74/100 took 0.75812 secs. MAX PROFIT = 0.21767%
+>>>  Scan 75/100 took 0.68619 secs. MAX PROFIT = 0.21767%
+>>>  Scan 76/100 took 0.73025 secs. MAX PROFIT = 0.20492%
+>>>  Scan 77/100 took 0.83846 secs. MAX PROFIT = 0.20492%
+>>>  Scan 78/100 took 0.64429 secs. MAX PROFIT = 0.30055%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 39.350553035 USDT
+TRADE 0 -> buy 0.0004648 ETH-USDT at price 3390.82
+TRADE 1 -> buy 13.4354 KAI-ETH at price 0.00003444
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 13.4354 KAI-ETH at price 0.00003473
+TRADE 2 -> sell 13.4354 KAI-USDT at price 0.1172811
+==============================
+END BAL -> 39.3536 USDT
+PROFIT  -> 0.00305 USDT
+TIME    -> 6.07791 secs.
+
+Collecting balances...
+NEW PRT -> 39.34748141 / 39.34748141
+>>>  Scan 79/100 took 0.64301 secs. MAX PROFIT = 0.09797%
+>>>  Scan 80/100 took 0.63782 secs. MAX PROFIT = 0.09797%
+>>>  Scan 81/100 took 0.64816 secs. MAX PROFIT = 0.25505%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 BAXETH not within (100.0,10000000000.0) required.
+MSG: 0.0 BAXUSDT not within (1000.0,10000000000.0) required.
+>>>  Scan 82/100 took 0.61104 secs. MAX PROFIT = 0.28437%
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+MSG: 0.0 BAXETH not within (100.0,10000000000.0) required.
+MSG: 0.0 BAXUSDT not within (1000.0,10000000000.0) required.
+>>>  Scan 83/100 took 0.64124 secs. MAX PROFIT = 0.21097%
+>>>  Scan 84/100 took 1.48838 secs. MAX PROFIT = 0.21097%
+>>>  Scan 85/100 took 0.59166 secs. MAX PROFIT = 0.18342%
+>>>  Scan 86/100 took 0.68418 secs. MAX PROFIT = 0.42717%
+MSG: 5.17e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 87/100 took 0.60504 secs. MAX PROFIT = 0.42717%
+MSG: 5.17e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 88/100 took 0.65566 secs. MAX PROFIT = 0.16079%
+>>>  Scan 89/100 took 0.71489 secs. MAX PROFIT = 0.14891%
+>>>  Scan 90/100 took 0.63638 secs. MAX PROFIT = 0.40455%
+MSG: 6e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 6e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 91/100 took 0.63808 secs. MAX PROFIT = 0.40455%
+MSG: 6e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 6e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 92/100 took 1.41663 secs. MAX PROFIT = 0.30662%
+MSG: 6e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 6e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 93/100 took 0.72198 secs. MAX PROFIT = 0.30662%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 94/100 took 0.68755 secs. MAX PROFIT = 0.28798%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 95/100 took 0.62549 secs. MAX PROFIT = 0.28104%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 96/100 took 0.62788 secs. MAX PROFIT = 0.28104%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 97/100 took 0.66481 secs. MAX PROFIT = 0.28104%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 98/100 took 0.65971 secs. MAX PROFIT = 0.35757%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 99/100 took 0.62153 secs. MAX PROFIT = 0.29492%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 100/100 took 0.70990 secs. MAX PROFIT = 0.23244%
+MSG: 4e-06 NEOUSDT not within (0.001,10000000000.0) required.
+MSG: 4e-06 NEOKCS not within (0.001,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+Saving runtime history...
+NEW PRT -> 39.34748141 / 39.34748141
+
+Done! In 5.96 mins, the bot accumulated -0.006143249999993827 USDT which is a -0.00781 percent difference.
+Total runtime was 5.97 mins.

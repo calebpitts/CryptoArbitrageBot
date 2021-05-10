@@ -1,0 +1,188 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 43.32723319 / 43.32723319
+>>>  Scan 0/10 took 0.76435 secs. MAX PROFIT = 0.07694%
+>>>  Scan 1/10 took 0.63285 secs. MAX PROFIT = 0.13559%
+MSG: 3.2061 KLVUSDT not within (10.0,10000000000.0) required.
+>>>  Scan 2/10 took 1.39793 secs. MAX PROFIT = 0.11108%
+>>>  Scan 3/10 took 0.62479 secs. MAX PROFIT = 0.11108%
+>>>  Scan 4/10 took 0.70340 secs. MAX PROFIT = 0.35339%
+MSG: 1.2762 KLVUSDT not within (10.0,10000000000.0) required.
+MSG: 0.8251 TRXUSDT not within (1.0,10000000000.0) required.
+>>>  Scan 5/10 took 1.07858 secs. MAX PROFIT = 0.14730%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.32723319 USDT
+TRADE 0 -> buy 0.00025625 BTC-USDT at price 55698.4
+TRADE 1 -> buy 14.4937 LTX-BTC at price 0.00001768
+TRADE 2 -> sell 14.4937 LTX-USDT at price 0.9850
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+MSG: 0.003 LTXUSDT not within (1.0,10000000000.0) required.
+Invalid trade -> (likely) due to remainder qty being to low to execute.
+Remainder qty is 0. Continuing with trade plan.
+==============================
+END BAL -> 43.32418 USDT
+PROFIT  -> -0.00305 USDT
+TIME    -> 6.04837 secs.
+
+Collecting balances...
+NEW PRT -> 43.32749619 / 43.32749619
+>>>  Scan 6/10 took 0.71372 secs. MAX PROFIT = 0.10301%
+>>>  Scan 7/10 took 0.66285 secs. MAX PROFIT = 0.47600%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.32723319 USDT
+TRADE 0 -> buy 0.00077748 BTC-USDT at price 55727.7
+TRADE 1 -> buy 16.9311 EQZ-BTC at price 0.00004592
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Not enough quantity to fill. Remainder qty = 12.928700000000001
+TRADE + -> buy 4.0024 EQZ-BTC at price 0.00004611
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Failed to cancel order. API Reason -> 200-{"code":"400100","msg":"order_not_exist_or_not_allow_to_cancel"}
+Unexpected result qty difference. Expected 16.9311 EQZ-BTC but received 8.0048 EQZ-BTC from last trade.
+Adjusting next trade qty by a factor of 0.472786765183597.
+TRADE 2 -> sell 8.0048 EQZ-USDT at price 2.5711
+API RESPONSE ->200-{"code":"200004","msg":"Balance insufficient!"}
+Attempting to execute trade with current balance quantity...
+Collecting balances...
+New trade qty: 4.0024
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Failed to cancel order. API Reason -> 200-{"code":"400100","msg":"order_not_exist_or_not_allow_to_cancel"}
+==============================
+END BAL -> 33.03666 USDT
+PROFIT  -> -10.29057 USDT
+TIME    -> 9.53826 secs.
+
+Collecting balances...
+WARNING: STOP LOSS FOR TARGET ASSET EXCEEDED! Exiting scan loop early...
+Saving runtime history...
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 44.159938625 / 44.159938625
+>>>  Scan 0/10 took 0.75554 secs. MAX PROFIT = 0.25122%
+MSG: 2.59e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 1/10 took 1.54013 secs. MAX PROFIT = 0.24872%
+MSG: 2.59e-06 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 2/10 took 0.68070 secs. MAX PROFIT = 0.24872%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 44.159938625 USDT
+TRADE 0 -> buy 0.00038202 BTC-USDT at price 56148.5
+No quantity filled during first limit order. Waiting 1 second before returning to scanning...
+MSG: Order canceled.
+MSG: Arbitrage trade lost. Returning to scanning...
+TIME    -> 3.19523 secs.
+
+Collecting balances...
+NEW PRT -> 44.159938625 / 44.159938625
+>>>  Scan 3/10 took 0.64349 secs. MAX PROFIT = 0.20203%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 44.159938625 USDT
+TRADE 0 -> buy 1.0869 POLK-USDT at price 1.9311
+TRADE 1 -> sell 1.0869 POLK-BTC at price 0.00003446
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+MSG: 0.0022 POLKBTC not within (0.1,10000000000.0) required.
+Invalid trade -> (likely) due to remainder qty being to low to execute.
+Remainder qty is 0. Continuing with trade plan.
+Unexpected result qty difference. Expected 3.745e-05 POLK-BTC but received 3.7375316e-05 POLK-BTC from last trade.
+Adjusting next trade qty by a factor of 0.9980057676902535.
+TRADE 2 -> sell 3.729e-05 BTC-USDT at price 56161.7
+==============================
+END BAL -> 44.16013 USDT
+PROFIT  -> 0.00019 USDT
+TIME    -> 4.56938 secs.
+
+Collecting balances...
+NEW PRT -> 44.157712315 / 44.157712315
+>>>  Scan 4/10 took 0.61527 secs. MAX PROFIT = 0.53565%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 44.159938625 USDT
+TRADE 0 -> buy 0.825246 ETC-USDT at price 53.5112
+No quantity filled during first limit order. Waiting 1 second before returning to scanning...
+MSG: Order canceled.
+MSG: Arbitrage trade lost. Returning to scanning...
+TIME    -> 3.39341 secs.
+
+Collecting balances...
+NEW PRT -> 44.157712315 / 44.157712315
+>>>  Scan 5/10 took 0.63438 secs. MAX PROFIT = 0.19017%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 44.159938625 USDT
+TRADE 0 -> buy 0.2657 MIR-USDT at price 9.931
+TRADE 1 -> sell 0.2657 MIR-KCS at price 0.6643
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Not enough quantity to fill. Remainder qty = 0.0005999999999999894
+TRADE + -> sell 0.2651 MIR-KCS at price 0.6637
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Failed to cancel order. API Reason -> 200-{"code":"400100","msg":"order_not_exist_or_not_allow_to_cancel"}
+Order completed while cancelling, and no remainder qty is left. Continuing with trade plan.
+Unexpected result qty difference. Expected 0.1765 MIR-KCS but received 0.35189374 MIR-KCS from last trade.
+Adjusting next trade qty by a factor of 1.9937322379603402.
+TRADE 2 -> sell 0.3506 KCS-USDT at price 14.998
+==============================
+END BAL -> 44.15994 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 7.33088 secs.
+
+Collecting balances...
+NEW PRT -> 45.463321725 / 45.463321725
+>>>  Scan 6/10 took 0.77081 secs. MAX PROFIT = 0.24370%
+MSG: 0.0003 XRPUSDT not within (0.1,10000000000.0) required.
+MSG: 0.0002 XRPKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 7/10 took 0.69833 secs. MAX PROFIT = 0.24370%
+MSG: 0.0003 XRPUSDT not within (0.1,10000000000.0) required.
+MSG: 0.0002 XRPKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 8/10 took 0.64305 secs. MAX PROFIT = 0.22666%
+MSG: 0.0003 XRPUSDT not within (0.1,10000000000.0) required.
+MSG: 0.0002 XRPKCS not within (0.1,10000000000.0) required.
+MSG: 0.0 KCSUSDT not within (0.01,10000000000.0) required.
+>>>  Scan 9/10 took 0.98353 secs. MAX PROFIT = 0.40991%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 44.159938625 USDT
+TRADE 0 -> buy 1.4746 SENSO-USDT at price 1.959739
+TRADE 1 -> sell 1.4746 SENSO-BTC at price 0.00003479
+Unexpected result qty difference. Expected 5.13e-05 SENSO-BTC but received 5.1301334e-05 SENSO-BTC from last trade.
+Adjusting next trade qty by a factor of 1.0000260038986355.
+TRADE 2 -> sell 5.13e-05 BTC-USDT at price 56175.2
+==============================
+END BAL -> 44.15994 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 3.29187 secs.
+
+Collecting balances...
+NEW PRT -> 45.46350668 / 45.46350668
+>>>  Scan 10/10 took 0.73813 secs. MAX PROFIT = 0.21482%
+MSG: 0.061 MIRUSDT not within (0.1,10000000000.0) required.
+Saving runtime history...
+NEW PRT -> 45.46350668 / 45.46350668
+
+Done! In 2.0 mins, the bot accumulated 2.607136109999999 USDT which is a 2.95192 percent difference.
+Total runtime was 2.01 mins.

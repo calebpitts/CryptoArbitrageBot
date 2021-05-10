@@ -1,0 +1,2 @@
+scan_id,trade_num,orderId,pair,pending,price,original_qty,filled_qty,result_qty,fee,fee_currency
+4,0,6091169e2d264a000668f8da,BTC-USDT,True,56142.6,1.293e-05,0.0,0.0,0.0,USDT

@@ -1,0 +1,312 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 21.70550103 / 65.11650309000001
+>>>  Scan 0/3000 took 0.79988 secs. MAX PROFIT = 0.37031%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.70550103 USDT
+TRADE 0 -> buy 0.0065328 ETH-USDT at price 3322.51
+No quantity filled during first limit order. Waiting 1 second before returning to scanning...
+MSG: Failed to cancel order. API Reason -> 200-{"code":"400100","msg":"order_not_exist_or_not_allow_to_cancel"}
+TRADE 1 -> buy 2.290844 NANO-ETH at price 0.0028517
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 2.290844 NANO-ETH at price 0.0028695
+Attempting to execute trade with current balance quantity...
+Collecting balances...
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 21.7358430475 / 65.20752914250001
+>>>  Scan 0/3000 took 0.75905 secs. MAX PROFIT = 0.74940%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.7358430475 USDT
+TRADE 0 -> buy 4.941 XCUR-USDT at price 4.399
+TRADE 1 -> sell 4.941 XCUR-BTC at price 0.0000788
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 4.941 XCUR-BTC at price 0.0000774
+Unexpected result qty difference. Expected 0.0003893 XCUR-BTC but received 0.0003824334 XCUR-BTC from last trade.
+Adjusting next trade qty by a factor of 0.9823616748009247.
+TRADE 2 -> sell 0.00038248 BTC-USDT at price 56004.0
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 0.00038248 BTC-USDT at price 55983.9
+==============================
+END BAL -> 21.72816 USDT
+PROFIT  -> -0.00769 USDT
+TIME    -> 8.95455 secs.
+
+Collecting balances...
+NEW PRT -> 21.6551588175 / 64.9654764525
+>>>  Scan 1/3000 took 0.64425 secs. MAX PROFIT = 0.21435%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 2/3000 took 0.63183 secs. MAX PROFIT = 0.21435%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 3/3000 took 0.64532 secs. MAX PROFIT = 0.27921%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 4/3000 took 1.43532 secs. MAX PROFIT = 0.28913%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 5/3000 took 0.65971 secs. MAX PROFIT = 0.28913%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 6/3000 took 0.62806 secs. MAX PROFIT = 0.28913%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 7/3000 took 0.66481 secs. MAX PROFIT = 0.32269%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 8/3000 took 0.73151 secs. MAX PROFIT = 0.29935%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 9/3000 took 0.61414 secs. MAX PROFIT = 0.29935%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 10/3000 took 0.61387 secs. MAX PROFIT = 0.29935%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 11/3000 took 0.65531 secs. MAX PROFIT = 0.29274%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 12/3000 took 0.61250 secs. MAX PROFIT = 0.24404%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 13/3000 took 1.44220 secs. MAX PROFIT = 0.24404%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 14/3000 took 0.64067 secs. MAX PROFIT = 0.24404%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 15/3000 took 0.69326 secs. MAX PROFIT = 0.24404%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 16/3000 took 0.78643 secs. MAX PROFIT = 0.29484%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 17/3000 took 0.73948 secs. MAX PROFIT = 0.31648%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 18/3000 took 0.62549 secs. MAX PROFIT = 0.30476%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 19/3000 took 1.51157 secs. MAX PROFIT = 0.30476%
+MSG: 0.0051 MTVUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0051 MTVETH not within (1.0,10000000000.0) required.
+MSG: 0.0 ETHUSDT not within (0.0001,10000000000.0) required.
+>>>  Scan 20/3000 took 0.94537 secs. MAX PROFIT = 0.36337%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 21/3000 took 0.79551 secs. MAX PROFIT = 0.37016%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 22/3000 took 0.70345 secs. MAX PROFIT = 0.37016%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 23/3000 took 0.63112 secs. MAX PROFIT = 0.37016%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 24/3000 took 0.69594 secs. MAX PROFIT = 0.37016%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 25/3000 took 0.61638 secs. MAX PROFIT = 0.37016%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 26/3000 took 0.76539 secs. MAX PROFIT = 0.31591%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 27/3000 took 0.61795 secs. MAX PROFIT = 0.39052%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 28/3000 took 0.65174 secs. MAX PROFIT = 0.39052%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 29/3000 took 0.62963 secs. MAX PROFIT = 0.39052%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 30/3000 took 0.76785 secs. MAX PROFIT = 0.39052%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 31/3000 took 0.71400 secs. MAX PROFIT = 0.39052%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 32/3000 took 0.62629 secs. MAX PROFIT = 0.39052%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 33/3000 took 0.64165 secs. MAX PROFIT = 0.39052%
+MSG: 0.0803 MIRUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 34/3000 took 0.64813 secs. MAX PROFIT = 0.40234%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.7358430475 USDT
+TRADE 0 -> buy 0.00038826 BTC-USDT at price 55982.4
+TRADE 1 -> buy 45.6239 DOGE-BTC at price 0.00000851
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 45.6239 DOGE-BTC at price 0.00000855
+Attempting to execute trade with current balance quantity...
+Collecting balances...
+New trade qty: 3.035
+WARNING: Reduction in qty failed.
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 21.6771612425 / 65.03148372749999
+>>>  Scan 0/3000 took 0.85152 secs. MAX PROFIT = 0.23366%
+MSG: 0.0033 MHCUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0033 MHCBTC not within (1.0,10000000000.0) required.
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 1/3000 took 0.66414 secs. MAX PROFIT = 0.23366%
+MSG: 0.0033 MHCUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0033 MHCBTC not within (1.0,10000000000.0) required.
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 2/3000 took 0.69173 secs. MAX PROFIT = 0.19682%
+MSG: 0.0033 MHCUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0033 MHCBTC not within (1.0,10000000000.0) required.
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 3/3000 took 0.63966 secs. MAX PROFIT = 0.19682%
+MSG: 0.0033 MHCUSDT not within (1.0,10000000000.0) required.
+MSG: 0.0033 MHCBTC not within (1.0,10000000000.0) required.
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 4/3000 took 0.59765 secs. MAX PROFIT = 0.41538%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.6771612425 USDT
+TRADE 0 -> buy 1.137e-05 BTC-USDT at price 55766.0
+TRADE 1 -> buy 0.3351 POLK-BTC at price 0.00003393
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> buy 0.3351 POLK-BTC at price 0.00003395
+TRADE 2 -> sell 0.3351 POLK-USDT at price 1.9000
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 0.3351 POLK-USDT at price 1.9016
+Attempting to execute trade with current balance quantity...
+Collecting balances...
+WARNING: You do not have any {} available in your account.
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 222 valid pairs on KUCOIN.
+NEW PRT -> 21.6778188875 / 65.0334566625
+>>>  Scan 0/3000 took 0.75114 secs. MAX PROFIT = 0.11079%
+>>>  Scan 1/3000 took 0.66510 secs. MAX PROFIT = 0.11079%
+>>>  Scan 2/3000 took 0.67599 secs. MAX PROFIT = 0.11079%
+>>>  Scan 3/3000 took 1.45920 secs. MAX PROFIT = 0.10169%
+>>>  Scan 4/3000 took 0.68705 secs. MAX PROFIT = 0.18702%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.6778188875 USDT
+TRADE 0 -> buy 0.3668 POLK-USDT at price 1.9444
+TRADE 1 -> sell 0.3668 POLK-BTC at price 0.00003485
+Unexpected result qty difference. Expected 1.278e-05 POLK-BTC but received 1.278298e-05 POLK-BTC from last trade.
+Adjusting next trade qty by a factor of 1.0002331768388106.
+TRADE 2 -> sell 1.278e-05 BTC-USDT at price 55787.6
+==============================
+END BAL -> 21.67782 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 2.91457 secs.
+
+Collecting balances...
+NEW PRT -> 21.677616195 / 65.032848585
+>>>  Scan 5/3000 took 1.18104 secs. MAX PROFIT = 0.17911%
+MSG: 1e-06 ETCUSDT not within (0.01,10000000000.0) required.
+MSG: 1e-06 ETCBTC not within (0.01,10000000000.0) required.
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 6/3000 took 0.74698 secs. MAX PROFIT = 0.14960%
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+MSG: 0.0 SWINGBYBTC not within (0.1,10000000000.0) required.
+MSG: 0.0 SWINGBYUSDT not within (0.1,10000000000.0) required.
+>>>  Scan 7/3000 took 0.72247 secs. MAX PROFIT = 0.14622%
+MSG: 1e-06 ETCUSDT not within (0.01,10000000000.0) required.
+MSG: 1e-06 ETCBTC not within (0.01,10000000000.0) required.
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 8/3000 took 0.68988 secs. MAX PROFIT = 0.15544%
+MSG: 0.0077 BEPROUSDT not within (10.0,10000000000.0) required.
+MSG: 0.0077 BEPROBTC not within (10.0,10000000000.0) required.
+MSG: 0.0 BTCUSDT not within (1e-05,10000000000.0) required.
+>>>  Scan 9/3000 took 0.73172 secs. MAX PROFIT = 0.19436%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.6778188875 USDT
+TRADE 0 -> buy 0.025541 ETC-USDT at price 52.3297
+TRADE 1 -> sell 0.025541 ETC-BTC at price 0.0009390
+Incomplete limit order during TRADE 1. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 0.025541 ETC-BTC at price 0.0009364
+Unexpected result qty difference. Expected 2.398e-05 ETC-BTC but received 2.39165924e-05 ETC-BTC from last trade.
+Adjusting next trade qty by a factor of 0.997355813177648.
+TRADE 2 -> sell 2.387e-05 BTC-USDT at price 55827.6
+Incomplete limit order during TRADE 2. Waiting 1 second before attempting to complete limit order...
+MSG: Order canceled.
+Can fully fill remainder qty + trade qty. Remainder qty set to 0.
+TRADE + -> sell 2.387e-05 BTC-USDT at price 55805.6
+==============================
+END BAL -> 21.67729 USDT
+PROFIT  -> -0.00053 USDT
+TIME    -> 8.32319 secs.
+
+Collecting balances...
+NEW PRT -> 21.6767739425 / 65.03032182749999
+>>>  Scan 10/3000 took 0.65064 secs. MAX PROFIT = 0.12863%
+>>>  Scan 11/3000 took 0.76931 secs. MAX PROFIT = 0.11729%
+>>>  Scan 12/3000 took 0.77355 secs. MAX PROFIT = 0.11729%
+>>>  Scan 13/3000 took 0.68043 secs. MAX PROFIT = 0.11729%
+>>>  Scan 14/3000 took 1.46819 secs. MAX PROFIT = 0.12850%
+>>>  Scan 15/3000 took 0.76480 secs. MAX PROFIT = 0.12850%
+>>>  Scan 16/3000 took 0.79285 secs. MAX PROFIT = 0.92687%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 21.6778188875 USDT
+TRADE 0 -> buy 0.00037852 BTC-USDT at price 55811.7
+TRADE 1 -> buy 8.193 EQZ-BTC at price 0.00004620
+TRADE 2 -> sell 8.193 EQZ-USDT at price 2.5720
+==============================
+END BAL -> 21.67864 USDT
+PROFIT  -> 0.00082 USDT
+TIME    -> 3.59013 secs.
+
+Collecting balances...
+NEW PRT -> 21.65096214 / 64.95288642
+Saving runtime history...
+
+Done! In 1.99 mins, the bot accumulated 0.0 USDT which is a 0.0 percent difference.
+Total runtime was 1.99 mins.

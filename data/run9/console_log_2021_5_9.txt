@@ -1,0 +1,73 @@
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 223 valid pairs on KUCOIN.
+NEW PRT -> 43.561262385 / 43.561262385
+>>>  Scan 0/10 took 2.41047 secs. MAX PROFIT = 3.08402%
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 223 valid pairs on KUCOIN.
+NEW PRT -> 43.561262385 / 43.561262385
+>>>  Scan 0/10 took 0.73949 secs. MAX PROFIT = 0.26349%
+New profit percent after trade plan generation = -0.14906%
+MSG: Arbitrage no longer profitable while generating trade plan.
+Establishing exchange connections...
+A problem occurred getting BSV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting REV-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-BTC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting OXEN-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting LYXe-ETH orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-USDC orderbook. Pair might be untradeable on KUCOIN.
+A problem occurred getting BSV-KCS orderbook. Pair might be untradeable on KUCOIN.
+Found 223 valid pairs on KUCOIN.
+NEW PRT -> 43.561262385 / 43.561262385
+>>>  Scan 0/10 took 1.51314 secs. MAX PROFIT = 0.16855%
+>>>  Scan 1/10 took 0.71545 secs. MAX PROFIT = 0.17328%
+>>>  Scan 2/10 took 0.78415 secs. MAX PROFIT = 0.17328%
+>>>  Scan 3/10 took 0.77297 secs. MAX PROFIT = 0.16855%
+>>>  Scan 4/10 took 1.52639 secs. MAX PROFIT = 0.17756%
+>>>  Scan 5/10 took 0.75642 secs. MAX PROFIT = 0.18283%
+>>>  Scan 6/10 took 0.82446 secs. MAX PROFIT = 0.17756%
+>>>  Scan 7/10 took 0.74436 secs. MAX PROFIT = 0.40926%
+New profit percent after trade plan generation = -0.1803%
+MSG: Arbitrage no longer profitable while generating trade plan.
+>>>  Scan 8/10 took 2.48035 secs. MAX PROFIT = 0.39393%
+New profit percent after trade plan generation = 0.1857%
+MSG: Arbitrage no longer profitable while generating trade plan.
+>>>  Scan 9/10 took 0.69457 secs. MAX PROFIT = 0.40504%
+New profit percent after trade plan generation = 0.25351%
+
+ARBITRAGE AVAILABLE!
+BEG BAL -> 43.561262385 USDT
+TRADE 0 -> buy 825.0 MTV-USDT at price 0.0080513
+TRADE 1 -> sell 825.0 MTV-BTC at price 0.000000137
+TRADE 2 -> sell 0.00011273 BTC-USDT at price 58917.6
+==============================
+END BAL -> 43.56126 USDT
+PROFIT  -> 0.0 USDT
+TIME    -> 2.97423 secs.
+
+Collecting balances...
+NEW PRT -> 43.555678015 / 43.555678015
+>>>  Scan 10/10 took 0.80794 secs. MAX PROFIT = 0.40504%
+New profit percent after trade plan generation = 0.15814%
+MSG: Arbitrage no longer profitable while generating trade plan.
+Saving runtime history...
+NEW PRT -> 43.555678015 / 43.555678015
+
+Done! In 1.66 mins, the bot accumulated -0.01116874000000223 USDT which is a -0.01282 percent difference.
+Total runtime was 1.66 mins.

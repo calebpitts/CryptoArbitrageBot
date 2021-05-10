@@ -1,0 +1,4 @@
+scan_id,exchange,timestamp,direction,order_type,side,pair,price,qty,max_trading_qty,valid,end_profit_percent
+1,KUCOIN,01:54:21,forward,buy,ask,BTC-USDT,55406.3,1.519e-05,1.5190673999999999e-05,True,0.22325419945714575
+1,KUCOIN,01:54:21,forward,buy,ask,POLK-BTC,0.00003216,0.4722,0.4722,True,0.22325419945714575
+1,KUCOIN,01:54:21,forward,sell,bid,POLK-USDT,1.7864,0.4722,0.4722,True,0.22325419945714575

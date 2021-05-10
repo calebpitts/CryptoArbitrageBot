@@ -1,0 +1,4 @@
+scan_id,trade_num,orderId,order_type,pair,pending,price,original_qty,filled_qty,result_qty,fee,fee_currency,execution_time_secs
+9,0,6098c4a8e818d00006b83a6c,buy,MTV-USDT,False,0.0080513,825.0,825.0,6.6423225,0.005313858,USDT,0.52039
+9,1,6098c4a978f3de0006bc5cac,sell,MTV-BTC,False,1.37e-07,825.0,825.0,0.000113025,9.042e-08,BTC,0.55021
+9,2,6098c4a995cfe4000610836a,sell,BTC-USDT,False,58917.6,0.00011273,0.00011273,6.641781048,0.0053134248384,USDT,0.49271

@@ -1,0 +1,4 @@
+scan_id,starting_qty,ending_qty,profit,asset,total_arbitrage_time_secs
+2,43.69295345,43.69295345,0.0,USDT,6.79902
+5,,,0.0,,3.80221
+6,43.69295345,43.69295345,0.0,USDT,2.79631

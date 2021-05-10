@@ -1,0 +1,4 @@
+scan_id,exchange,timestamp,direction,order_type,side,pair,price,qty,max_trading_qty,valid,end_profit_percent
+16,KUCOIN,22:47:45,reverse,buy,ask,DFI-USDT,4.616,0.0249,0.024972498637175045,True,0.291159185441936
+16,KUCOIN,22:47:45,reverse,sell,bid,DFI-BTC,0.00007866,0.0248,0.024972498637175045,True,0.291159185441936
+16,KUCOIN,22:47:45,reverse,sell,bid,BTC-USDT,58853.8,1.95e-06,1.958634e-06,False,0.291159185441936
